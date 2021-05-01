@@ -1,3 +1,4 @@
+# This file has a simple program that reads data from a mysql table and puts it into a CSV pipe delimited file. Path is not mentioned. So this will add to the default python path where the project belongs.
 import mysql.connector
 from datetime import date, datetime
 import csv
